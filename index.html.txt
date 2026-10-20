@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Sri Lankan O/L and A/L past papers from 2016 to 2025.">
+<title>PaperHub LK | O/L & A/L Past Papers</title>
+<style>
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#f6f8fc;color:#172033}
+a{text-decoration:none}.wrap{max-width:1150px;margin:auto;padding:0 18px}
+.nav{position:sticky;top:0;z-index:50;background:#fff;border-bottom:1px solid #e5e7eb}
+.navin{height:66px;display:flex;align-items:center;justify-content:space-between}
+.logo{font-size:22px;font-weight:900;color:#2563eb}.logo span{color:#111827}
+.navlinks a{margin-left:8px;padding:9px 12px;font-size:14px;font-weight:700;color:#334155}
+.hero{padding:55px 0;background:linear-gradient(135deg,#eff6ff,#fff,#ecfeff)}
+.heroin{display:grid;grid-template-columns:1.3fr .7fr;gap:30px;align-items:center}
+.badge{display:inline-block;padding:7px 12px;border-radius:30px;background:#dbeafe;color:#1d4ed8;font-size:12px;font-weight:800}
+h1{font-size:clamp(35px,6vw,62px);line-height:1.02;letter-spacing:-2px;margin:15px 0}
+.hero p{color:#64748b;font-size:17px;max-width:680px}
+.search{display:flex;margin-top:22px;background:#fff;padding:6px;border:1px solid #e2e8f0;border-radius:14px;box-shadow:0 10px 30px #0f172a12}
+.search input{flex:1;border:0;outline:0;padding:12px;font-size:15px}.search button{border:0;border-radius:10px;background:#2563eb;color:#fff;padding:12px 18px;font-weight:800}
+.stats{background:#fff;border:1px solid #e5e7eb;border-radius:20px;padding:20px}.stat{display:flex;justify-content:space-between;padding:14px 0;border-bottom:1px solid #e5e7eb}.stat:last-child{border:0}.stat strong{font-size:20px}
+.ad{height:74px;margin:20px 0;border:1px dashed #cbd5e1;border-radius:13px;background:#fff;display:flex;align-items:center;justify-content:center;color:#94a3b8;font-size:12px}
+.section{padding:45px 0}.title{margin-bottom:20px}.title h2{font-size:30px;margin:0 0 5px}.title p{margin:0;color:#64748b}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.card{background:#fff;border:1px solid #e5e7eb;border-radius:16px;padding:18px;cursor:pointer;transition:.18s}
+.card:hover{transform:translateY(-3px);box-shadow:0 12px 25px #0f172a12;border-color:#bfdbfe}
+.icon{width:40px;height:40px;border-radius:11px;background:#eff6ff;color:#2563eb;display:grid;place-items:center;font-weight:900;margin-bottom:12px}
+.card h3{margin:0 0 4px;font-size:16px}.card p{margin:0;color:#64748b;font-size:13px}
+.panel{display:none;background:#fff;border:1px solid #e5e7eb;border-radius:18px;padding:18px;margin-top:18px}.panel.show{display:block}
+.papergrid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+.paper{border:1px solid #e5e7eb;border-radius:12px;padding:12px;display:flex;justify-content:space-between;align-items:center;gap:10px}
+.actions{display:flex;gap:6px}.btn{border:0;border-radius:8px;padding:8px 10px;font-size:12px;font-weight:800;cursor:pointer}
+.view{background:#eff6ff;color:#1d4ed8}.download{background:#ecfdf5;color:#047857}
+.tabs{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:18px}.tab{border:1px solid #e2e8f0;background:#fff;color:#475569;border-radius:10px;padding:10px 14px;font-weight:800;cursor:pointer}.tab.active,.tab:hover{background:#2563eb;color:#fff;border-color:#2563eb}
+.stream{background:#fff;border:1px solid #e5e7eb;border-radius:18px;padding:18px}.stream h3{margin:0 0 12px}.subjects{display:flex;flex-wrap:wrap;gap:8px}.subjects button{border:1px solid #e2e8f0;background:#f8fafc;border-radius:9px;padding:9px 12px;font-weight:700;color:#334155;cursor:pointer}.subjects button:hover{background:#eff6ff;color:#2563eb}
+.note{background:#fffbeb;border:1px solid #fde68a;color:#854d0e;border-radius:12px;padding:13px;font-size:13px;margin-top:15px}
+footer{background:#0f172a;color:#cbd5e1;padding:35px 0}.copy{border-top:1px solid #334155;margin-top:20px;padding-top:15px;font-size:12px;color:#94a3b8}
+@media(max-width:850px){.heroin{grid-template-columns:1fr}.grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:560px){.navlinks{display:none}.grid,.papergrid{grid-template-columns:1fr}.paper{flex-direction:column;align-items:flex-start}.actions{width:100%}.actions .btn{flex:1}.search{display:block;background:transparent;border:0;box-shadow:none;padding:0}.search input{width:100%;border:1px solid #e2e8f0;border-radius:10px;margin-bottom:8px}.search button{width:100%}}
+</style>
+</head>
+<body>
+
+<div class="nav"><div class="wrap navin">
+<a class="logo" href="#">Paper<span>Hub LK</span></a>
+<div class="navlinks"><a href="#ol">O/L Papers</a><a href="#al">A/L Papers</a></div>
+</div></div>
+
+<section class="hero"><div class="wrap heroin">
+<div>
+<span class="badge">2016 – 2025 • PDF ARCHIVE</span>
+<h1>Sri Lankan O/L & A/L Past Papers</h1>
+<p>Find past papers by subject, stream and year. View papers online or use the Download button to open the corresponding Telegram PDF post.</p>
+<div class="search"><input id="search" placeholder="Search O/L subjects..." oninput="searchOL()"><button onclick="searchOL()">Search</button></div>
+</div>
+<div class="stats">
+<div class="stat"><span>O/L Subjects</span><strong>12</strong></div>
+<div class="stat"><span>A/L Streams</span><strong>5</strong></div>
+<div class="stat"><span>Years</span><strong>2016–2025</strong></div>
+<div class="stat"><span>Format</span><strong>PDF</strong></div>
+</div>
+</div></section>
+
+<div class="wrap"><div class="ad">ADVERTISEMENT</div></div>
+
+<section class="section" id="ol"><div class="wrap">
+<div class="title"><h2>O/L Past Papers</h2><p>Select a subject to see 2016–2025 papers.</p></div>
+<div id="olGrid" class="grid"></div><div id="olPanel" class="panel"></div>
+</div></section>
+
+<div class="wrap"><div class="ad">ADVERTISEMENT</div></div>
+
+<section class="section" id="al"><div class="wrap">
+<div class="title"><h2>A/L Past Papers</h2><p>Browse papers separately by A/L stream.</p></div>
+<div id="tabs" class="tabs"></div><div id="alContent"></div>
+</div></section>
+
+<div class="wrap"><div class="note"><strong>Admin:</strong> To add a paper, edit only the <strong>PAPERS</strong> section in the JavaScript below and paste the Telegram post link for that year. Example: <code>"2025":"https://t.me/YourChannel/123"</code>.</div></div>
+
+<footer><div class="wrap"><strong style="color:#fff">PaperHub LK</strong><p>O/L & A/L Past Papers • 2016–2025</p><div class="copy">© 2026 PaperHub LK. All rights reserved.</div></div></footer>
+
+<script>
+/* ==========================================================
+   EDIT ONLY THIS PAPERS SECTION
+   ==========================================================
+   Put the Telegram PDF POST link for each year here.
+
+   Example:
+   "2025":"https://t.me/YourChannel/123"
+
+   If a paper is not available yet, leave it as "".
+   ========================================================== */
+const PAPERS = {
+"O/L":{
+"English":{"2016":"https://t.me/PaperHubLK_bot?start=BQADAQADxgwAAvSAmEQ-FYplOhWJSRYE","2017":"https://t.me/PaperHubLK_bot?start=BQADAQADBxIAAvSAkERT3k36CYCChhYE","2018":"https://t.me/PaperHubLK_bot?start=BQADAQADyQwAAvSAmEQgfomuAknd9hYE","2019":"https://t.me/PaperHubLK_bot?start=BQADAQADzQwAAvSAmESlS84Ddn5ZdRYE","2020":"https://t.me/PaperHubLK_bot?start=BQADAQADzwwAAvSAmEQn4WdvJkhlQhYE","2021":"https://t.me/PaperHubLK_bot?start=BQADAQAD0wwAAvSAmETVpa9cgU5s_RYE","2022":"https://t.me/PaperHubLK_bot?start=BQADAQAD1QwAAvSAmEQ_HrlSMVQrjRYE","2023":"https://t.me/PaperHubLK_bot?start=BQADAQADJw0AAvSAmETJ9uZh4tVDIRYE","2024":"https://t.me/PaperHubLK_bot?start=BQADAQADJw0AAvSAmETJ9uZh4tVDIRYE","2025":"https://t.me/PaperHubLK_bot?start=BQADAQADLQ0AAvSAmETAWkODkkfJpRYE"},
+"Sinhala":{"2016":"https://t.me/PaperHubLK_bot?start=BQADAQADEQsAAni3qUTcL5C60JumkhYE","2017":"https://t.me/PaperHubLK_bot?start=BQADAQADEwsAAni3qURqxwABYYtE2H8WBA","2018":"https://t.me/PaperHubLK_bot?start=BQADAQADFQsAAni3qUT8c4w_FiE9JBYE","2019":"https://t.me/PaperHubLK_bot?start=BQADAQADGAsAAni3qUTGaBoPPUKFqBYE","2020":"https://t.me/PaperHubLK_bot?start=BQADAQADGgsAAni3qUQISOjQzwrUbBYE","2021":"https://t.me/PaperHubLK_bot?start=BQADAQADHAsAAni3qUT5JtshsU1MtRYE","2022":"https://t.me/PaperHubLK_bot?start=BQADAQADIAsAAni3qURZ8sBUcK5X6RYE","2023":"https://t.me/PaperHubLK_bot?start=BQADAQADIwsAAni3qURdPHLcTWGGfBYE","2024":"https://t.me/PaperHubLK_bot?start=BQADAQADJQsAAni3qUTSVCc4mqdYyRYE","2025":"https://t.me/PaperHubLK_bot?start=BQADAQADKgsAAni3qUS7LL7uLiPUNhYE"},
+"Science":{"2016":"https://t.me/PaperHubLK_bot?start=BQADAQADgwoAAni3sUSponyYnAKLwhYE","2017":"https://t.me/PaperHubLK_bot?start=BQADAQADhgoAAni3sUQpJM8Y80mc9xYE","2018":"https://t.me/PaperHubLK_bot?start=BQADAQADiQoAAni3sURqiOpjaVVGyRYE","2019":"https://t.me/PaperHubLK_bot?start=BQADAQADiwoAAni3sUTbCiLeMyNbzxYE","2020":"https://t.me/PaperHubLK_bot?start=BQADAQADmwoAAni3sURSxE4HzPt9bRYE","2021":"https://t.me/PaperHubLK_bot?start=BQADAQADkAoAAni3sUSkIbGQ2SSXbRYE","2022":"https://t.me/PaperHubLK_bot?start=BQADAQADkQoAAni3sUTdo9QVt4CDwxYE","2023":"https://t.me/PaperHubLK_bot?start=BQADAQADkwoAAni3sURyJTU6D0bI5hYE","2024":"https://t.me/PaperHubLK_bot?start=BQADAQADlQoAAni3sUS_Po43xPvrExYE","2025":"https://t.me/PaperHubLK_bot?start=BQADAQADlgoAAni3sUQ29awip55NjhYE"},
+"Buddhism":{"2016":"https://t.me/PaperHubLK_bot?start=BQADAQADVAwAAni3sUR_wjvhDapxYE","2017":"https://t.me/PaperHubLK_bot?start=BQADAQADVgwAAni3sUSOcvgCwKHUmhYE","2018":"https://t.me/PaperHubLK_bot?start=BQADAQADWAwAAni3sUR2QLIP4qMFhxYE","2019":"https://t.me/PaperHubLK_bot?start=BQADAQADWQwAAni3sUQYtUGI9Z7OnxYE","2020":"https://t.me/PaperHubLK_bot?start=BQADAQADWgwAAni3sURIrIRy_xjFFhYE","2021":"https://t.me/PaperHubLK_bot?start=BQADAQADkAwAAni3sURKU4nkzgwJ3hYE","2022":"https://t.me/PaperHubLK_bot?start=BQADAQADkgwAAni3sUQT-AlIJQPawRYE","2023":"https://t.me/PaperHubLK_bot?start=BQADAQADlAwAAni3sURB1mJ9wobV-xYE","2024":"https://t.me/PaperHubLK_bot?start=BQADAQADmAwAAni3sUSjtQM-M1oyORYE","2025":"https://t.me/PaperHubLK_bot?start=BQADAQADmwwAAni3sUSDe8TqyGFbYRYE"},
+"History":{"2016":"https://t.me/PaperHubLK_bot?start=BQADAQAD0QcAAtGwuESi7MgyWveYDxYE","2017":"https://t.me/PaperHubLK_bot?start=BQADAQAD1AcAAtGwuETA6dAST68amxYE","2018":"https://t.me/PaperHubLK_bot?start=BQADAQAD1gcAAtGwuEQkOPopRMCWAAEWBA","2019":"https://t.me/PaperHubLK_bot?start=BQADAQAD1wcAAtGwuEQGFbc9SkH24hYE","2020":"https://t.me/PaperHubLK_bot?start=BQADAQAD2AcAAtGwuESKUjDa3O-KoBYE","2021":"https://t.me/PaperHubLK_bot?start=BQADAQAD2QcAAtGwuESUauaLItRjyRYE","2022":"https://t.me/PaperHubLK_bot?start=BQADAQAD2gcAAtGwuEQVLDu1WHlGXBYE","2023":"https://t.me/PaperHubLK_bot?start=BQADAQAD3AcAAtGwuESLz8XM3IUa8hYE","2024":"https://t.me/PaperHubLK_bot?start=BQADAQAD3QcAAtGwuETPx6SC43rvlxYE","2025":"https://t.me/PaperHubLK_bot?start=BQADAQAD3gcAAtGwuES8Y1J8LGhJBRYE"},
+"Mathematics":{"2016":"https://t.me/maths2016paperhbulk/2","2017":"https://t.me/PaperHubLK_bot?start=BQADAQAD3Q4AAtGwuEQv2hQX8rXwzRYE","2018":"https://t.me/PaperHubLK_bot?start=BQADAQAD3w4AAtGwuESOu3xENuWv1hYE","2019":"https://t.me/PaperHubLK_bot?start=BQADAQAD4g4AAtGwuEQ640Oxt5K7VxYE","2020":"https://t.me/PaperHubLK_bot?start=BQADAQAD5g4AAtGwuEQRqnJgQ9SKlBYE","2021":"https://t.me/PaperHubLK_bot?start=BQADAQAD5w4AAtGwuEQzEH_m4_XJSxYE","2022":"https://t.me/PaperHubLK_bot?start=BQADAQAD6A4AAtGwuERjfJZcYDnnCxYE","2023":"https://t.me/PaperHubLK_bot?start=BQADAQAD6Q4AAtGwuESnMIAkV5ow6hYE","2024":"https://t.me/PaperHubLK_bot?start=BQADAQAD6w4AAtGwuEQaFMoMwFW6AhYE","2025":"https://t.me/PaperHubLK_bot?start=BQADAQAD7Q4AAtGwuES7RGuUYYIXYxYE"},
+"ICT":{"2016":"https://t.me/PaperHubLK2_bot?start=BQADAQAD-w0AAtGwwERjQsO9DIKRYE","2017":"https://t.me/PaperHubLK2_bot?start=BQADAQAD_Q0AAtGwwEShtz6qA3kcvhYE","2018":"https://t.me/PaperHubLK2_bot?start=BQADAQADzgwAAoRruUTIzQNjQKhOCBYE","2019":"https://t.me/PaperHubLK2_bot?start=BQADAQADzwwAAoRruUQTc_ov4c0wpxYE","2020":"https://t.me/PaperHubLK2_bot?start=BQADAQAD0wwAAoRruUQtK8BrYgeQBxYE","2021":"https://t.me/PaperHubLK2_bot?start=BQADAQAD1QwAAoRruUReknwOXm-8GBYE","2022":"https://t.me/PaperHubLK2_bot?start=BQADAQAD4AwAAoRruUQCfozMTytAcxYE","2023":"https://t.me/PaperHubLK2_bot?start=BQADAQAD4QwAAoRruUTwCzzGD_g8-BYE","2024":"https://t.me/PaperHubLK2_bot?start=BQADAQAD4wwAAoRruUQiD-QL9zJYcRYE","2025":"https://t.me/PaperHubLK2_bot?start=BQADAQAD5QwAAoRruUSJaFT3Nh3s7BYE"},
+"Agriculture":{"2016":"https://t.me/PaperHubLK2_bot?start=BQADAQADBAwAAoRrwURamlrDX9KorhYE","2017":"https://t.me/PaperHubLK2_bot?start=BQADAQADCAwAAoRrwUSCQJVmjIulFRYE","2018":"https://t.me/PaperHubLK2_bot?start=BQADAQADDAwAAoRrwURKQmz1HQtZsBYE","2019":"https://t.me/PaperHubLK2_bot?start=BQADAQADDgwAAoRrwURrCMn0OrGReBYE","2020":"https://t.me/PaperHubLK2_bot?start=BQADAQADEAwAAoRrwUT76Nu9GZdY5xYE","2021":"https://t.me/PaperHubLK2_bot?start=BQADAQADEQwAAoRrwUSk_iPVWpvjRBYE","2022":"https://t.me/PaperHubLK2_bot?start=BQADAQADEgwAAoRrwUTchE-Z6A7KEBYE","2023":"https://t.me/PaperHubLK2_bot?start=BQADAQADGQwAAoRrwUQip6PUI9yL1hYE","2024":"https://t.me/PaperHubLK2_bot?start=BQADAQADGwwAAoRrwUTTZfRBrLUNjRYE","2025":"https://t.me/PaperHubLK2_bot?start=BQADAQADHwwAAoRrwUSoCHrtZltkpRYE"},
+"Health":{"2016":"https://t.me/PaperHubLK2_bot?start=BQADAQADqA8AAoRrwURZSsO0dk73xRYE","2017":"https://t.me/PaperHubLK2_bot?start=BQADAQADrQ8AAoRrwUSwVKFLSudD9xYE","2018":"https://t.me/PaperHubLK2_bot?start=BQADAQADrw8AAoRrwUSrGzFhvnY3MRYE","2019":"https://t.me/PaperHubLK2_bot?start=BQADAQADsg8AAoRrwUTCeth0jJAb8hYE","2020":"https://t.me/PaperHubLK2_bot?start=BQADAQADtQ8AAoRrwURo_UdVJVHqLBYE","2021":"https://t.me/PaperHubLK2_bot?start=BQADAQADug8AAoRrwUQXMTZfs8q5PxYE","2022":"https://t.me/PaperHubLK2_bot?start=BQADAQADuw8AAoRrwUS82EqRsFP1KBYE","2023":"https://t.me/PaperHubLK2_bot?start=BQADAQADvQ8AAoRrwUQzITG3znazIBYE","2024":"https://t.me/PaperHubLK2_bot?start=BQADAQADwA8AAoRrwUSpJUBiMgdtuBYE","2025":"https://t.me/PaperHubLK2_bot?start=BQADAQADwg8AAoRrwUSjswH7rXV9MRYE"},
+"Civic Education":{"2016":"https://t.me/PaperHubLK_bot?start=BQADAQADkgwAAoRryUQE42NtZkBzwRYE","2017":"https://t.me/PaperHubLK_bot?start=BQADAQADlQwAAoRryUQMh5qlcBRYRBYE","2018":"https://t.me/PaperHubLK_bot?start=BQADAQADlgwAAoRryUTepi1Da4zdtBYE","2019":"https://t.me/PaperHubLK_bot?start=BQADAQADmgwAAoRryUTq5z-0jwv9JBYE","2020":"https://t.me/PaperHubLK_bot?start=BQADAQADoQwAAoRryUSxg7hQCzEF4BYE","2021":"https://t.me/PaperHubLK_bot?start=BQADAQADpwwAAoRryUSMStkfpu7KcBYE","2022":"https://t.me/PaperHubLK_bot?start=BQADAQADqwwAAoRryURhkCicl_r4_RYE","2023":"https://t.me/PaperHubLK_bot?start=BQADAQADyQwAAoRryUT4SZdugar98hYE","2024":"https://t.me/PaperHubLK_bot?start=BQADAQADrwwAAoRryUQMoiMKL5RINxYE","2025":"https://t.me/PaperHubLK_bot?start=BQADAQADswwAAoRryUQN20M6EmqGjBYE"},
+"Tamil":{"2016":"https://t.me/PaperHubLK2_bot?start=BQADAQAECQACBfTRRBBWP2TOGrXbFgQ","2017":"https://t.me/PaperHubLK2_bot?start=BQADAQADBgkAAgX00USb1-jZwhld0RYE","2018":"https://t.me/PaperHubLK2_bot?start=BQADAQADGQkAAgX00USuwLhL_LR3thYE","2019":"https://t.me/PaperHubLK2_bot?start=BQADAQAD2QkAAgX00UTfhfC_RvmScBYE","2020":"https://t.me/PaperHubLK2_bot?start=BQADAQADMAkAAgX00UQEwf7hYW_PjBYE","2021":"https://t.me/PaperHubLK2_bot?start=BQADAQADNAkAAgX00UQmX5bo0-dk6BYE","2022":"https://t.me/PaperHubLK2_bot?start=BQADAQADNgkAAgX00USkeYjenKJOsBYE","2023":"https://t.me/PaperHubLK2_bot?start=BQADAQADRwkAAgX00UT0d-3S5BG4chYE","2024":"https://t.me/PaperHubLK2_bot?start=BQADAQADSQkAAgX00UQiG-40s-wmpBYE","2025":"https://t.me/PaperHubLK2_bot?start=BQADAQADUwkAAgX00UQB2ImIOWg1whYE"},
+"Geography":{"2016":"https://t.me/PaperHubLK2_bot?start=BQADAQADXRAAAoRryUS1bRMMuoINWhYE","2017":"https://t.me/PaperHubLK2_bot?start=BQADAQADYRAAAoRryURhjWvoDIe0OxYE","2018":"https://t.me/PaperHubLK2_bot?start=BQADAQADZBAAAoRryUTnwfntsbhBTRYE","2019":"https://t.me/PaperHubLK2_bot?start=BQADAQADZhAAAoRryUTQujz6OCh0mRYE","2020":"https://t.me/PaperHubLK2_bot?start=BQADAQADZxAAAoRryUR6qB45dcnuFRYE","2021":"https://t.me/PaperHubLK2_bot?start=BQADAQADaRAAAoRryURCzzu7x_J5DBYE","2022":"https://t.me/PaperHubLK2_bot?start=BQADAQADbhAAAoRryURS6Kb-mjZjRRYE","2023":"https://t.me/PaperHubLK2_bot?start=BQADAQADchAAAoRryURp7PGue2vMAAEWBA","2024":"https://t.me/PaperHubLK2_bot?start=BQADAQADdBAAAoRryUQ_USFljTfGARYE","2025":"https://t.me/PaperHubLK2_bot?start=BQADAQADeRAAAoRryURqAtMkYcWKehYE"}
+},
+"A/L":{
+"Combined Mathematics":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQADmhIAAgX00UQ92MO0KBHloxYE","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQADmxIAAgX00URChf-hA9RwkRYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQADnBIAAgX00UTZApaAHGzclBYE","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQADnRIAAgX00URlBRUtJPhIZxYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQADnxIAAgX00USAlooxjOmkdRYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQADoBIAAgX00UTJCN9UBeJcIRYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQADoRIAAgX00UQPnmonS5Q-OBYE","2023":"https://t.me/PaperHubLKal1_bot?start=BQADAQADoxIAAgX00USpQAIjdUecuBYE","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQADpBIAAgX00UQGSmFTRaEL3BYE","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQADpRIAAgX00US50FcrRWOBkBYE"},
+"Physics":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQADXhgAAgX02UQau3Bd3ej_lRYE","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQADYBgAAgX02US2AtwJc_cyERYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQADZBgAAgX02UQAAUhW6JTUKcEWBA","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQADZhgAAgX02UT_fctzc8EwWxYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQADaRgAAgX02USNn9vwFbe5KxYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQADbhgAAgX02USvVraa0k9YQxYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQADdBgAAgX02UQZI62OQMYUHBYE","2023":"https://t.me/PaperHubLKal1_bot?start=BQADAQADeRgAAgX02UT9Aj39tyLJshYE","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQADehgAAgX02UTUPQYFz0jL1hYE","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQADfBgAAgX02URz0rg2GiZJhRYE"},
+"Chemistry":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQADhhgAAgX02URd0EERjo0iOxYE","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQADPQsAAgX04UQMDR0yvb7wbRYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQADihgAAgX02URO38F1028RYE","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQADjRgAAgX02USYOeAnbqOhwBYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQADjxgAAgX02URzjomRSr8FExYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQADkRgAAgX02UQVc7UOE3gE0RYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQADkhgAAgX02URaEcByXpVrXBYE","2023":"https://t.me/PaperHubLKal1_bot?start=BQADAQADmBgAAgX02UTxss8hblmIfxYE","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQADmRgAAgX02UTui_ogIbk65xYE","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQADnRgAAgX02URPmigmffAaehYE"},
+"Agricultural science":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQADUgsAAgX04USg2Uzu9EQAAR0WBA","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQADVQsAAgX04UTAj5pDn5l0uBYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQADVgsAAgX04UQSnIRQQ9xCvxYE","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQADVwsAAgX04UQCEoDy2WRtExYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQADWAsAAgX04USrXOJTJ5XM6BYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQADWQsAAgX04UTEdpzkXo0KURYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQADWgsAAgX04USTEVTX12mw_BYE","2023":"https://t.me/PaperHubLKal1_bot?start=BQADAQADXAsAAgX04UTI6S3zT9km_xYE","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQADXgsAAgX04UQcbigMV7fUxxYE","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQADXwsAAgX04UQE5n2CKlbskhYE"},
+"Biology":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQADPwsAAgX04UR1CQ8SXS8YQxYE","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQADQAsAAgX04UQQ8H03aMfKMRYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQADQwsAAgX04UTOgDR6oO3ZqhYE","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQADRQsAAgX04UQsgqDAGvy9fRYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQADRgsAAgX04URXkbaKDgHWGBYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQADSAsAAgX04UTZf4xubREtHhYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQADSgsAAgX04URCF_Nc7WQ2UBYE","2023":"https://t.me/PaperHubLKal1_bot?start=BQADAQADTAsAAgX04USkTT_6bSMHNhYE","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQADTwsAAgX04USb2z9ioqDyeRYE","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQADUQsAAgX04UT3fbsvpFafyxYE"},
+"Engineering Technology":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD8RkAAuOS4ERgSqNMYGox1hYE","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD8hkAAuOS4EQGZf64Nxn9JBYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD9hkAAuOS4ETeAfK11fsI3RYE","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD9xkAAuOS4EQY8uqxdsOomxYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD-xkAAuOS4ESPui8ooZ-EmRYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD_BkAAuOS4EQEsUSn6JKQUxYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD_xkAAuOS4ET-CrlO23P3uBYE","2023":"https://t.me/PaperHubLKal1_bot?start=BQADAQADAxoAAuOS4EQyssAZjmLygBYE","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQADBRoAAuOS4ERVSi3aqaraiRYE","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQADBxoAAuOS4ETnLMGIGNhFjhYE"},
+"Science for Technology":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQADTxoAAuOS4ER5cFPjX4rSMxYE","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQADUhoAAuOS4ETDCUtc2F9KVBYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQADVBoAAuOS4ESAJBJZ-p6ZFBYE","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQADVxoAAuOS4EQqgCHqtwc4JRYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQADWRoAAuOS4ESl_ZDHoOebSxYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQADWhoAAuOS4ERNnNFirbycmBYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQADWxoAAuOS4ESyHiWROnaFjhYE","2023":"https://t.me/PaperHubLKal1_bot?start=BQADAQADXxoAAuOS4ERtvFKUGgZMbBYE","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQADYhoAAuOS4ERNUPfBRpXoHxYE","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQADZBoAAuOS4ESC4lgxDfRC3RYE"},
+"Information & Communication Technology":{"2016":"https://t.me/PaperHubLK2_bot?start=BQADAQADpRAAAuOS6ESbZqV5crFulBYE","2017":"https://t.me/PaperHubLK2_bot?start=BQADAQADphAAAuOS6ET7xUPq9z1W7hYE","2018":"https://t.me/PaperHubLK2_bot?start=BQADAQADpxAAAuOS6ESsZi0t_PdKvhYE","2019":"https://t.me/PaperHubLK2_bot?start=BQADAQADqBAAAuOS6EQ3Iekl8DBIFRYE","2020":"https://t.me/PaperHubLK2_bot?start=BQADAQADqhAAAuOS6EToVuBP8cRC-RYE","2021":"https://t.me/PaperHubLK2_bot?start=BQADAQADrRAAAuOS6ESvUVjm0nog_RYE","2022":"https://t.me/PaperHubLK2_bot?start=BQADAQADrhAAAuOS6EQLNSKrZXQhSRYE","2023":"https://t.me/PaperHubLK2_bot?start=BQADAQADrxAAAuOS6EQs02VP3VGtaBYE","2024":"https://t.me/PaperHubLK2_bot?start=BQADAQADsBAAAuOS6EQy3b9bsl2A-hYE","2025":"https://t.me/PaperHubLK2_bot?start=BQADAQADshAAAuOS6EQq5nF0GpztCxYE"},
+"Accounting":{"2016":"https://t.me/PaperHubLK2_bot?start=BQADAQADsxAAAuOS6ERZWGcxkoZXrBYE","2017":"https://t.me/PaperHubLK2_bot?start=BQADAQADtRAAAuOS6ESixu9Qj3szyBYE","2018":"https://t.me/PaperHubLK2_bot?start=BQADAQADthAAAuOS6ETd9QFy6EhY_xYE","2019":"https://t.me/PaperHubLK2_bot?start=BQADAQADtxAAAuOS6ESk74JV32-geBYE","2020":"https://t.me/PaperHubLK2_bot?start=BQADAQADuRAAAuOS6ERQrB7f3-bedhYE","2021":"https://t.me/PaperHubLK2_bot?start=BQADAQADuhAAAuOS6EQP2ORICIh3PRYE","2022":"https://t.me/PaperHubLK2_bot?start=BQADAQADuxAAAuOS6ESMNPqyrOTs3xYE","2023":"https://t.me/PaperHubLK2_bot?start=BQADAQADvRAAAuOS6ETvQGAFL1OCaBYE","2024":"https://t.me/PaperHubLK2_bot?start=BQADAQADwBAAAuOS6ETOzL2FATpkdBYE","2025":"https://t.me/PaperHubLK2_bot?start=BQADAQADwRAAAuOS6ER5MBqIfMRXUxYE"},
+"Economics":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQADzhUAAuOS6ESKB4uJBWUbphYE","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQADzxUAAuOS6ERpd_G5XpMDhBYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD0hUAAuOS6ESptiC1MY_gKBYE","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD1hUAAuOS6ESh5T8i9DASyhYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD2RUAAuOS6EQs0pzRmRrMfRYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD2hUAAuOS6ESpgbz9jO_nTRYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD2xUAAuOS6ESpjHBHmOviwxYE","2023":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD3BUAAuOS6ET6X1cxv4FF_BYE","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD3hUAAuOS6ETJy0_RxSO9TxYE","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD3xUAAuOS6ETigKyPxdO-ihYE"},
+"Business Studies":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQADXA4AAuOS8ERuEkm6rXaPYhYE","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQADXQ4AAuOS8EReeo_BX6gR9BYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQADXw4AAuOS8ER6OaZReAfeShYE","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQADYA4AAuOS8EQfRFT-Hg3RqRYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQADYg4AAuOS8ESfX4SRIlJYDBYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQADiw4AAuOS8EQ33U832ghAHxYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQADjQ4AAuOS8EQndBhHU-Ti8xYE","2023":"https://t.me/PaperHubLKal1_bot?start=BQADAQADaQ4AAuOS8EREO208a2uaWRYE","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQADkQ4AAuOS8ET6h7twMyBepBYE","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQADaw4AAuOS8ESQKrycdU2gqBYE"},
+"Sinhala":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD_A0AAuOS8ESIIH0hdOK4QxYE","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD_g0AAuOS8ETMp5Uv6ZjBfBYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQAEDgAC45LwREXLPk68NgW3FgQ","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQADAw4AAuOS8ESXcZvzj62QkBYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQADLggAAkDh8ESArbGzajsqrhYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQADCQ4AAuOS8EQ9r2VlVJ4EKxYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQADCg4AAuOS8EQn90qozK3CwBYE","2023":"https://t.me/PaperHubLKal1_bot?start=BQADAQADDA4AAuOS8EToa66wdg2xORYE","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQADDQ4AAuOS8EQAAZUhl64Z9h0WBA","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQADDw4AAuOS8ETvccbZfd6HvBYE"},
+"Political Science":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQADEQ4AAuOS8EQUuucLMyNeexYE","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQADEg4AAuOS8EQTXIDIzn9PCBYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQADEw4AAuOS8ESxnh-YOj9L-BYE","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQADFg4AAuOS8EQzGR_hVDCn3hYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQADGw4AAuOS8ESU3wU3cDVfChYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQADHQ4AAuOS8ETCJ-fTEHNEgRYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQADHg4AAuOS8ET2JqMWMur8nBYE","2023":"https://t.me/PaperHubLKal1_bot?start=BQADAQADIQ4AAuOS8ETZrX9stRZjYxYE","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQADIg4AAuOS8ESxNOaJViPABhYE","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQADJA4AAuOS8ET2VhGPVu7JDRYE"},
+"Home Economics":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQADJg4AAuOS8ETGPB-7-SmLaRYE","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQADJw4AAuOS8ESO69XvkA97HRYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQADKg4AAuOS8ESY1Jl-En15pxYE","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQADKw4AAuOS8ESoRJ_RmFNNXBYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQADLQ4AAuOS8ERQEriwoKU-7BYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQADLw4AAuOS8EQcq-5r6me_xRYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQADMA4AAuOS8EQxB09norpbdBYE","2023":"https://t.me/PaperHubLKal1_bot?start=BQADAQADMg4AAuOS8ERMbz-7_rYYVhYE","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQADNA4AAuOS8ERnplDbTtr8KhYE","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQADNQ4AAuOS8ESGIaV35boGXBYE"},
+"Geography":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQADog8AAkDh8ER0fCbfFk3YYxYE","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQADow8AAkDh8EQNEPU4XfL0YxYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQADpA8AAkDh8ETufuVSRgs-5hYE","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQADpQ8AAkDh8ESPJBNqN2nMFxYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQADpw8AAkDh8ETWlHDctiq4VRYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQADqA8AAkDh8ESurkUTZBJfSBYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQADqQ8AAkDh8ERp3O0n2k1vAhYE","2023":"https://t.me/PaperHubLKal1_bot?start=BQADAQADqg8AAkDh8ESQmVDnM6kp1xYE","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQADrA8AAkDh8EQLl0LqjP5R_RYE","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQADrg8AAkDh8EQp_IHgw_3pZxYE"},
+"Dancing":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD2hgAAkDh-ESDPj1kZv_HnBYE","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD2xgAAkDh-ETE_p6Zu9LCHRYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD3hgAAkDh-EQKZl0OuUACNBYE","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD4hgAAkDh-ES6NPDoZ4m9NBYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD4xgAAkDh-EQb_JB3liQpPRYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQADBhkAAkDh-EQwDjNRTntLPxYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD5hgAAkDh-ES4oh8y_2Mv4BYE","2023":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD6hgAAkDh-EQgnXPQtBIOGRYE","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD7hgAAkDh-ETaJGcbxyv8JBYE","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQAD8RgAAkDh-ETekCjJphphYE"},
+"Drama & Theatre":{"2016":"https://t.me/PaperHubLKal1_bot?start=BQADAQADXBkAAkDh-ET4VfS6PWLQQhYE","2017":"https://t.me/PaperHubLKal1_bot?start=BQADAQADXhkAAkDh-EQgEHagdT5UUBYE","2018":"https://t.me/PaperHubLKal1_bot?start=BQADAQADXxkAAkDh-ETZOONhxNcAAeoWBA","2019":"https://t.me/PaperHubLKal1_bot?start=BQADAQADYBkAAkDh-ER2_B-fnKzlLhYE","2020":"https://t.me/PaperHubLKal1_bot?start=BQADAQADYRkAAkDh-ET9tqyyZ6lY2hYE","2021":"https://t.me/PaperHubLKal1_bot?start=BQADAQADYxkAAkDh-EQBjjgb16zy3RYE","2022":"https://t.me/PaperHubLKal1_bot?start=BQADAQADZhkAAkDh-EShrE3mac7FFhYE","2023":"","2024":"https://t.me/PaperHubLKal1_bot?start=BQADAQADZxkAAkDh-ERXfJJNCJ3aFBYE","2025":"https://t.me/PaperHubLKal1_bot?start=BQADAQADaRkAAkDh-ESVKPFfp8I9nRYE"}
+}
+};
+
+const YEARS=[2016,2017,2018,2019,2020,2021,2022,2023,2024,2025];
+const STREAMS={
+"Mathematics Stream":["Combined Mathematics","Physics","Chemistry"],
+"Biological Science Stream":["Biology","Agricultural Science"],
+"Technology Stream":["Engineering Technology","Science for Technology","Information & Communication Technology"],
+"Commerce Stream":["Accounting","Economics","Business Studies"],
+"Arts Stream":["Sinhala","Political Science","Home Economics","Geography","Dancing","Drama & Theatre"]
+};
+
+function safe(s){return s.replace(/\\/g,"\\\\").replace(/'/g,"\\'");}
+
+function paperRow(level,subject,year){
+ const url=PAPERS[level][subject][year]||"";
+ if(!url)return `<div class="paper"><strong>${year} ${subject}</strong><span style="font-size:12px;color:#94a3b8">PDF not added</span></div>`;
+ return `<div class="paper">
+ <strong>${year} ${subject}</strong>
+ <div class="actions">
+   <a class="btn view" href="${url}" target="_blank" rel="noopener">View PDF</a>
+   <a class="btn download" href="${url}" target="_blank" rel="noopener">Download</a>
+ </div>
+ </div>`;
+}
+
+function showOL(subject){
+ const p=document.getElementById("olPanel");p.classList.add("show");
+ p.innerHTML=`<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px">
+ <div><h3 style="margin:0">${subject}</h3><small style="color:#64748b">O/L Past Papers</small></div>
+ <button class="btn view" onclick="document.getElementById('olPanel').classList.remove('show')">Close</button>
+ </div><div class="papergrid">${YEARS.map(y=>paperRow("O/L",subject,y)).join("")}</div>`;
+ p.scrollIntoView({behavior:"smooth",block:"start"});
+}
+
+function renderOL(){
+ document.getElementById("olGrid").innerHTML=Object.keys(PAPERS["O/L"]).map((s,i)=>
+ `<div class="card" data-name="${s.toLowerCase()}" onclick="showOL('${safe(s)}')">
+ <div class="icon">${i+1}</div><h3>${s}</h3><p>2016 – 2025 • PDF Papers</p></div>`).join("");
+}
+
+function renderTabs(){
+ const t=document.getElementById("tabs");
+ t.innerHTML=Object.keys(STREAMS).map((s,i)=>
+ `<button class="tab ${i===0?"active":""}" onclick="selectStream('${safe(s)}',this)">${s}</button>`).join("");
+ selectStream(Object.keys(STREAMS)[0],t.querySelector(".tab"));
+}
+
+function selectStream(stream,btn){
+ document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));btn.classList.add("active");
+ document.getElementById("alContent").innerHTML=`<div class="stream"><h3>${stream}</h3>
+ <div class="subjects">${STREAMS[stream].map(s=>`<button onclick="showAL('${safe(s)}')">${s}</button>`).join("")}</div>
+ <div id="alPanel" class="panel"></div></div>`;
+}
+
+function showAL(subject){
+ const p=document.getElementById("alPanel");p.classList.add("show");
+ p.innerHTML=`<h3 style="margin-top:0">${subject}</h3><div class="papergrid">${YEARS.map(y=>paperRow("A/L",subject,y)).join("")}</div>`;
+ p.scrollIntoView({behavior:"smooth",block:"start"});
+}
+
+function searchOL(){
+ const q=document.getElementById("search").value.toLowerCase();
+ document.querySelectorAll("#olGrid .card").forEach(c=>c.style.display=c.dataset.name.includes(q)?"block":"none");
+}
+
+renderOL();renderTabs();
+</script>
+</body>
+</html>
